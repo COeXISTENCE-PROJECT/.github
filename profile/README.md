@@ -1,4 +1,6 @@
-## Hi there 👋
+
+
+![logo](https://github.com/COeXISTENCE-PROJECT/shared/blob/main/graphical/COeXISTENCE/COeXISTENCE_logo/LOGO/COLOR/horizontal/COeXISTENCE_logo_color_horizontal_blue-gray.jpg)
 
 <!--
 

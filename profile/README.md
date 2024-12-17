@@ -5,7 +5,7 @@
 > COeXISTENCE is an ecosystem to experiment with future Urban Traffic Systems, where routing decisions are simulatenously made by humans and autonomous vehicles.
 >
 
-## The following use-case synthesize main features of an ecocystem:
+## The following use-case synthesize main features of an ecosystem:
 
 > * You import road network of a given urban areas from `Open Street Map`
 > * You generate a demand pattern, where each of agents is specified with own traits and travel demans $(o_i, d_i, \tau_i$)
@@ -19,6 +19,11 @@
 > * You `train` your algorithms until it finds suitable `policy`
 > * You roll-out the trained policy and observe impact of new routing on the system.
 > * You further allow humans to adapt to actions of `AVs` and allow `AVs` to refine its policies.
+
+Each of above handled with specific packages/modules/workflows of `COeXISTENCE`:
+
+![image](https://github.com/user-attachments/assets/3149b95e-4d7c-428c-9455-84a0cf2483f7)
+
 
 
 

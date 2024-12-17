@@ -2,13 +2,23 @@
 
 ![logo](https://github.com/COeXISTENCE-PROJECT/shared/blob/main/graphical/COeXISTENCE/COeXISTENCE_logo/LOGO/COLOR/horizontal/COeXISTENCE_logo_color_horizontal_blue-gray.jpg)
 
-<!--
+> COeXISTENCE is an ecosystem to experiment with future Urban Traffic Systems, where routing decisions are simulatenously made by humans and autonomous vehicles.
+>
 
-**Here are some ideas to get you started:**
+## The following use-case synthesize main features of an ecocystem:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> * You import road network of a given urban areas from `Open Street Map`
+> * You generate a demand pattern, where each of agents is specified with own traits and travel demans $(o_i, d_i, \tau_i$)
+> * You control your experiment with a `.json` file and specify details of conducted experiment (or set of experiments).
+> * You specify your human behaviour models to accurately reproduce how human drivers select routes.
+> * You generate choice set of paths for each agent to select from.
+> * You connect with `SUMO` traffic simulator to be used as environment to compute travel costs.
+> * You run $n$ days of human learning (`SUMO days`), hoping the system will stabilize in proximity of Wardrop User Equilibrium
+> * You introduce mutation and replace some human agents with `AVs`.
+> * You determine `reinforcement learning` algorithm for each agent by defining rewards, observations and hyperparameters
+> * You `train` your algorithms until it finds suitable `policy`
+> * You roll-out the trained policy and observe impact of new routing on the system.
+> * You further allow humans to adapt to actions of `AVs` and allow `AVs` to refine its policies.
+
+
+

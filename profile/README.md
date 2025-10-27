@@ -87,7 +87,7 @@
 
 
 ### Pipeline at glance (from [here](https://www.nature.com/articles/s41598-025-90783-w))
-<img width="820" alt="image" src="https://github.com/user-attachments/assets/b77c04e1-86fb-4d22-9a3a-5e8d66a64a8f" />
+<img width="820" alt="image" src="https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/scirep.jpg" />
 
 ### (Outdated) framework overview
 

@@ -84,7 +84,7 @@
   <img src="https://github.com/COeXISTENCE-PROJECT/URB/raw/main/docs/credits.png" width="50%"/>
 </p>
 
-
+---
 
 ### Pipeline at glance (from [here](https://www.nature.com/articles/s41598-025-90783-w))
 <img width="820" alt="image" src="https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/scirep.jpg" />

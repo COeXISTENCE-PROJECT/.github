@@ -1,0 +1,115 @@
+{
+  "project": {
+    "name": "COeXISTENCE",
+    "url": "https://www.rafalkucharskilab.pl/research/coexistence/",
+    "grant": "ERC Starting Grant, grant agreement No. 101075838",
+    "institution": "Jagiellonian University, Kraków, Poland"
+  },
+  "contributors": [
+    {
+      "name": "A. Onur Akman",
+      "github": "aonurakman",
+      "url": "https://github.com/aonurakman",
+      "role": "Project member",
+      "group": "member"
+    },
+    {
+      "name": "Anastasia Psarou",
+      "github": "AnastasiaPsarou",
+      "url": "https://github.com/AnastasiaPsarou",
+      "role": "Project member",
+      "group": "member"
+    },
+    {
+      "name": "Łukasz Gorczyca",
+      "github": "Limexcyan",
+      "url": "https://github.com/Limexcyan",
+      "role": "Project member",
+      "group": "member"
+    },
+    {
+      "name": "Błażej Torbus",
+      "github": "Blato122",
+      "url": "https://github.com/Blato122",
+      "role": "Project member",
+      "group": "member"
+    },
+    {
+      "name": "Kacper Drozd",
+      "github": "L2Space",
+      "url": "https://github.com/L2Space",
+      "role": "Project member",
+      "group": "member"
+    },
+    {
+      "name": "Mikołaj Rams",
+      "github": "mikolajRams",
+      "url": "https://github.com/mikolajRams",
+      "role": "Project member",
+      "group": "member"
+    },
+    {
+      "name": "Paweł Gora",
+      "github": "pgora",
+      "url": "https://github.com/pgora",
+      "role": "Project member",
+      "group": "member"
+    },
+    {
+      "name": "Michał Bujak",
+      "github": "michallbujak",
+      "url": "https://github.com/michallbujak",
+      "role": "Project member",
+      "group": "member"
+    },
+    {
+      "name": "Grzegorz Jamróz",
+      "github": "GrzegorzJamroz",
+      "url": "https://github.com/GrzegorzJamroz",
+      "role": "Project member",
+      "group": "member"
+    },
+    {
+      "name": "Rafał Kucharski",
+      "github": "RafalKucharskiPK",
+      "url": "https://www.rafalkucharskilab.pl",
+      "role": "Project lead",
+      "group": "member"
+    },
+    {
+      "name": "Dominik Gaweł",
+      "github": "dg7s",
+      "url": "https://github.com/dg7s",
+      "role": "Affiliated contributor",
+      "group": "external"
+    },
+    {
+      "name": "Małgorzata Sudoł",
+      "github": "msudolm",
+      "url": "https://github.com/msudolm",
+      "role": "Affiliated contributor",
+      "group": "external"
+    },
+    {
+      "name": "Michał Hoffmann",
+      "github": "Crackhoff",
+      "url": "https://github.com/Crackhoff",
+      "role": "Former member",
+      "group": "former"
+    },
+    {
+      "name": "Zoltán G. Varga",
+      "github": "kistref",
+      "url": "https://github.com/kistref",
+      "role": "Former member",
+      "group": "former"
+    },
+    {
+      "name": "Natello Descormier",
+      "github": "natdesc",
+      "url": "https://github.com/natdesc",
+      "role": "Former member",
+      "group": "former"
+    }
+  ]
+}
